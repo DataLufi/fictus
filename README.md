@@ -228,7 +228,7 @@ O Veredito Estratégico Fictus cobre 11 seções obrigatórias: resumo executivo
 
 Engenheiro de Produção em transição para a área de dados, com foco em análise orientada a decisão de negócio. Construído para demonstrar que análise de dados não é só código: é raciocínio estruturado com evidência.
 
-[![LinkedIn](www.linkedin.com/in/filholuiz)
+www.linkedin.com/in/filholuiz
 
 ---
 
