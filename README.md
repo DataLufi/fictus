@@ -85,7 +85,7 @@ https://github.com/DataLufi/fictus/blob/main/exports/11_retencao_churn.png
 Lead time médio em deterioração progressiva (11 → 14 dias), com SLA pressionado em picos sazonais. O modelo terceirizado absorveu o crescimento histórico, mas os dados apontam esgotamento da capacidade sem reestruturação. https://github.com/DataLufi/fictus/blob/main/exports/02_lead_time_volume.png
 
 **💳 Estrutura Financeira**
-PMR elevado por dependência de parcelamento em cartão de crédito, gerando R$ 1,14M em capital em aberto. Spread capturado por intermediários financeiros representa uma alavanca de valor — ou um passivo, dependendo do modelo adotado pelo comprador.
+PMR elevado por dependência de parcelamento em cartão de crédito, gerando R$ 1,14M em capital em aberto. Spread capturado por intermediários financeiros representa uma alavanca de valor — ou um passivo, dependendo do modelo adotado pelo comprador.  
 https://github.com/DataLufi/fictus/blob/main/exports/01_mix_pagamento.png
 
 ### Diagnóstico Final
