@@ -79,14 +79,15 @@ Os resultados refletem o dataset Olist no período simulado e as premissas adota
 
 **📈 Crescimento vs. Sustentabilidade**
 Receita de R$ 13,2M em expansão consistente ao longo do período, com concentração de clientes revelada pela curva de Lorenz e indícios de churn silencioso em coortes de retenção — um risco que não aparece no faturamento bruto.
-https://github.com/DataLufi/fictus/blob/main/exports/11_retencao_churn.png
+![churn](https://github.com/DataLufi/fictus/blob/main/exports/11_retencao_churn.png)
 
 **🚚 Operação Logística**
-Lead time médio em deterioração progressiva (11 → 14 dias), com SLA pressionado em picos sazonais. O modelo terceirizado absorveu o crescimento histórico, mas os dados apontam esgotamento da capacidade sem reestruturação. https://github.com/DataLufi/fictus/blob/main/exports/02_lead_time_volume.png
+Lead time médio em deterioração progressiva (11 → 14 dias), com SLA pressionado em picos sazonais. O modelo terceirizado absorveu o crescimento histórico, mas os dados apontam esgotamento da capacidade sem reestruturação. 
+![leadtime](https://github.com/DataLufi/fictus/blob/main/exports/02_lead_time_volume.png)
 
 **💳 Estrutura Financeira**
 PMR elevado por dependência de parcelamento em cartão de crédito, gerando R$ 1,14M em capital em aberto. Spread capturado por intermediários financeiros representa uma alavanca de valor — ou um passivo, dependendo do modelo adotado pelo comprador.  
-https://github.com/DataLufi/fictus/blob/main/exports/01_mix_pagamento.png
+![mixpagamento](https://github.com/DataLufi/fictus/blob/main/exports/01_mix_pagamento.png)
 
 ### Diagnóstico Final
 
