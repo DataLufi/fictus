@@ -71,7 +71,7 @@ Os resultados refletem o dataset Olist no período simulado e as premissas adota
 
 ### Visual Insights
 
-https://github.com/DataLufi/fictus/blob/main/exports/dashboard.png
+![Dashboard](https://raw.githubusercontent.com/DataLufi/fictus/main/exports/dashboard.png)
 
 > Painel executivo consolidando os principais sinais da operação. Inclui receita mensal, scores por frente, evolução do lead time e curva de Lorenz de concentração de receita.
 
